@@ -20,11 +20,11 @@ class Lotto
 {
 public:
 	Lotto() {}
-	bool check_wylosowane(int n, int ilosc);
-	int check_gracza(int t[], int rozmiar);
-	void losowanie_gracza();
-	void losowanie_liczb();
-	void wynik_losowania();
+	bool check_wylosowane(int n, int ilosc); // This function checks reapeating of player numbers
+	int check_gracza(int t[], int rozmiar); // This function checks reapeating of randomized lottery numbers
+	void losowanie_gracza(); // This function allows you to enter your lottery numbers
+	void losowanie_liczb(); // This function randomizes numbers
+	void wynik_losowania(); // This function shows final results of lottery
 	virtual ~Lotto() {}
 private:
 	int tab[SIZE_];
