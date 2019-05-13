@@ -28,11 +28,4 @@ private:
 	int los, licznik = 0;
 	int wynik;
 };
-
-
-
-
-
-
-
 #endif /* LOTTO_H_ */
