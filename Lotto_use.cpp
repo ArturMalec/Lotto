@@ -1,9 +1,3 @@
-/*
- * Lotto_use.cpp
- *
- *  Created on: 18 gru 2018
- *      Author: Malcini
- */
 #include "Lotto.h"
 
 int main()
