@@ -1,10 +1,3 @@
-/*
- * lotto.h
- *
- *  Created on: 18 gru 2018
- *      Author: Malcini
- */
-
 #ifndef LOTTO_H_
 #define LOTTO_H_
 #include <vector>
