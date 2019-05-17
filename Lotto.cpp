@@ -1,9 +1,3 @@
-/*
- * Lotto.cpp
- *
- *  Created on: 18 gru 2018
- *      Author: Malcini
- */
 #include "Lotto.h"
 
 void Lotto::losowanie_gracza()
